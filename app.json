@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "GerenciamentoDeTurmas_Tests",
-    "slug": "GerenciamentoDeTurmas_Tests",
+    "slug": "GerenciamentoDeTurmas",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/IconeDoMeuApp.png",
@@ -19,14 +19,14 @@
         "foregroundImage": "./assets/IconeDoMeuApp.png",
         "backgroundColor": "#fefefe"
       },
-      "package": "com.mdl.GerenciamentoDeTurmas"
+      "package": "com.mdl.GerenciamentoDeTurmasTests"
     },
     "web": {
       "favicon": "./assets/favicon.png"
     },
     "extra": {
       "eas": {
-        "projectId": "7a9aeb33-467a-45b9-a6cb-47a42e3d9316"
+        "projectId": "7a9aeb33-467a-45b9-a6cb-47a42e3d9316x"
       }
     }
   }
