@@ -56,7 +56,7 @@ const verificacaoLimparTurmas= () => {
   return (
     <NativeBaseProvider>
       <VStack flex={1} padding={4} justifyContent={'center'}>
-      <StatusBar backgroundColor='#3437e5'/>
+      <StatusBar backgroundColor='#3437e5' style='light'/>
       <Image alignSelf={'center'} source={require('../src/assets/brasaoEstadual.png')}
             alt="Logo Estadual" 
             size={'lg'}
